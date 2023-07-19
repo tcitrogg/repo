@@ -13,7 +13,7 @@
 #### Roadmap
 Data Science | Web Design | Topic
 -------------|------------|-------
--[ ] ds      | -[ ] wd    | Summary and set up environment
+-[ ] ds      | -[x] wd    | Summary and set up environment
 -[ ] ds      | -[ ] wd    | The `print()` function
 -[ ] .       | -[ ] .     | Types I :[`int`, `float`, `complex`, `boolean`, `str`]
 -[ ] .       | -[ ] .     | The `input()` function
