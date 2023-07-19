@@ -5,9 +5,9 @@
 - Date format for naming files: `MM/DD/YYYY`
 
 #### Names of directory
-- `/ds` - Data Science
-- `/wd` - Web Design
-- `/sg` - Single class
+- `/data` - Data Science
+- `/web` - Web Design
+- `/single` - Single class
 -  and for the files outside in `/softrays`, they are for combined classes
 
 #### Roadmap
