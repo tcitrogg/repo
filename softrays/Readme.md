@@ -2,6 +2,13 @@
 
 - Course: `PY23`
 - Year:   `2023`
+- Date format for naming files: `MM/DD/YYYY`
+
+#### Names of directory
+- `/ds` - Data Science
+- `/wd` - Web Design
+- `/sg` - Single class
+-  and for the files outside in `/softrays`, they are for combined classes
 
 #### Roadmap
 Data Science | Web Design | Topic

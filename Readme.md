@@ -1,7 +1,16 @@
 ### Repo
 
+#### How
+
+#### Table
 - Python Class @ Softrays IT
-- Basically Python Notebook
+- Python Notebook
+
+#### Python Notebook
+You can open the `PyNotebook.ipynb` @ [https://github.com/bnierimi/repo/] with
+- Google Collab
+- Jupyter Notebook or
+- VS Code w/ Python extension installed.
 
 
 ----
