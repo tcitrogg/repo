@@ -6,7 +6,7 @@
 
 #### Names of directory
 - `/data-sci` - Data Science
-- `/web-dev` - Web Development
+- `/web` - Web Development
 - `/single-py` - Single class
 -  and for the files outside in `/softrays`, they are for combined classes
 
