@@ -1,3 +1,7 @@
+# Check out
+# https://github.com/bnierimi/repo/blob/main/softrays/data_sci/07252023.py
+# for a updated and better activity
+
 # ~ recap: Lambda
 
 # add = lambda x: x + 2
