@@ -29,7 +29,7 @@ def cmd_check(cmd):
         filename = input("[ Filename: ")
     return filename
 
-running = False
+running = True
 while running:
     cmd = input("<[cmd] ")
 
